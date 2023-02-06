@@ -12,4 +12,6 @@ public class PlayerSummary : ISteamResponse
     public string CommunityVisibilityState { get; set; }
     public string ProfileState { get; set; }
     public string LastLogoff { get; set; }
+    public IEnumerable<PlayerSummary> Friends { get; set; }
+    public IEnumerable<Game> Games { get; set; }
 }

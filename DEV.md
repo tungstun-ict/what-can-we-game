@@ -21,3 +21,6 @@ GetOwnedGames (v0001)
     img_icon_url, img_logo_url
     has_community_cisible_stats
  ]
+
+
+ https://store.steampowered.com/api/appdetails?appids=218620
